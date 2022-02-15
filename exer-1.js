@@ -11,7 +11,7 @@ console.log('x - y = ', x - y);  // 2
 console.log('x * y = ', x * y);  // 15
 
 // 
-console.log('x / y = ', x / y);  // 1.6666666667
+console.log('x / y = ', x / y);  // 1.666666667
 
 // 
 console.log('x % y = ', x % y);   // 2
