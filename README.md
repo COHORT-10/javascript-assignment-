@@ -1,2 +1,2 @@
 # javascript-assignment-
-Comment on the following operators 
+Comment on the operators 
